@@ -1,0 +1,26 @@
+{
+  "name": "AppServer",
+  "version": "1.0.0",
+  "description": "my server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liamscofield/Server"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "marcoli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liamscofield/Server/issues"
+  },
+  "dependencies": {
+    "express": "4.9.0",
+    "mongoose": "3.8.16"
+  },
+  "homepage": "https://github.com/liamscofield/Server"
+}
